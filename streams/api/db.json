@@ -1,0 +1,43 @@
+{
+  "streams": [
+    {
+      "title": "this",
+      "description": "that",
+      "id": 1
+    },
+    {
+      "title": "test",
+      "description": "it works",
+      "id": 2
+    },
+    {
+      "title": "I made this thursday",
+      "description": "Friday",
+      "id": 3
+    },
+    {
+      "title": "XX",
+      "description": "YY",
+      "userId": "107407430442068273547",
+      "id": 4
+    },
+    {
+      "title": "trying",
+      "description": "this ",
+      "userId": "107407430442068273547",
+      "id": 5
+    },
+    {
+      "title": "first",
+      "description": "second",
+      "userId": "107407430442068273547",
+      "id": 6
+    },
+    {
+      "title": "me trying component reuse",
+      "description": "refactor",
+      "userId": "107407430442068273547",
+      "id": 7
+    }
+  ]
+}
